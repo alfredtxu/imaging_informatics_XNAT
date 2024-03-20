@@ -1,1 +1,3 @@
-# imaging_informatics_XNAT
+# XNAT-Scripts
+
+XNAT-Scripts for upload download
